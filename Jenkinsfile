@@ -7,7 +7,7 @@ pipeline {
     MULE_VERSION = '4.1.5'
     BG = "1Platform\\Public\\CI-CD Demo"
     WORKER = "Micro"
-    APPNAME = "fb-mobile-customer-api-jimil"
+    APPNAME = "nto-mobile-experience"
   }
   stages {
     stage('Build') {
